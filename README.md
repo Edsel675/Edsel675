@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://www.pinterest.es/pin/435723332695211451/?amp_client_id=CLIENT_ID%28_%29&mweb_unauth_id=%7B%7Bdefault.session%7D%7D&amp_url=https%3A%2F%2Fwww.pinterest.es%2Famp%2Fpin%2F435723332695211451%2F&open_share=t"  />
 
 ###
 
@@ -44,6 +44,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Edse675/Edsel675/output/snake.svg" alt="Snake animation" />
 
 ###
