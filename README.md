@@ -1,37 +1,57 @@
-<h2 align="center">Hi there! 👋 I'm Edsel Cisneros</h2>
-<h4 align="center">Sophomore Computer Science Student at Tec de Monterrey</h4>
+<h1 align="center">Hi there! 👋 I'm Edsel Cisneros</h1>
+<h3 align="center">Sophomore Computer Science Student at Tec de Monterrey</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edsel675&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Edsel675&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://komarev.com/ghpvc/?username=Edsel675&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Edsel675&show_icons=true&theme=radical" alt="Edsel's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edsel675&layout=compact&theme=radical" alt="Top Languages" height="165" />
+</p>
 
-<img align="right" height="150" src="SI.gif" alt="animated gif" />
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### About Me
-- 🎓 I’m currently studying **Computer Science** at Tec de Monterrey.
-- 💻 I’m passionate about **Full-Stack Development** and always learning new technologies.
-- 🌱 Currently improving my skills in **React**, **TypeScript**, and **Python**.
-- 🎯 Looking forward to contributing to **open-source projects** and collaborating with the tech community.
+## About Me
 
-### Tech Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
-</div>
+- 🎓 Studying **Computer Science** at Tec de Monterrey
+- 💻 Passionate about **Full-Stack Development**
+- 🌱 Currently improving skills in **React**, **TypeScript**, and **Python**
+- 🚀 Aspiring to contribute to **open-source projects**
+- 🎯 Goal: To become a proficient software engineer
 
-### Let's Connect!
-<div align="left">
-  <a href="https://www.youtube.com/channel/UCxx"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" /></a>
-  <a href="https://instagram.com/edselcissneros"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" /></a>
-  <a href="https://twitch.tv/yourtwitch"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch" /></a>
-  <a href="mailto:yourgmail@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/edsel-cisneros-57b5261a4"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" /></a>
-</div>
+## Tech Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+</p>
+
+## Projects
+
+<a href="https://github.com/Edsel675/ProjectName">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Edsel675&repo=ProjectName&theme=radical" />
+</a>
+<a href="https://github.com/Edsel675/AnotherProject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Edsel675&repo=AnotherProject&theme=radical" />
+</a>
+
+## Let's Connect!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/edsel-cisneros-57b5261a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edsel-cisneros" height="30" width="40" /></a>
+  <a href="https://instagram.com/edselcissneros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edselcissneros" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCxx" height="30" width="40" /></a>
+  <a href="https://twitch.tv/yourtwitch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="yourtwitch" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edsel675&theme=radical" alt="Edsel675" />
+</p>
+
+<h3 align="center">Thanks for visiting! 😊</h3>
