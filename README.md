@@ -44,91 +44,82 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">📱 GreenFlow: Sistema Inteligente de Riego</h3>
+        <h3 align="center">🎮 CodeMahindra: Gamificación con IA</h3>
         <div align="center">
-          <a href="https://github.com/Edsel675/GreenFlow" target="_blank">
-            <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%" alt="GreenFlow"/>
+          <a href="https://github.com/Edsel675/CodeMahindra" target="_blank">
+            <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%" alt="CodeMahindra"/>
           </a>
           <p>
-            <a href="https://github.com/Edsel675/GreenFlow" target="_blank">
+            <a href="https://github.com/Edsel675/CodeMahindra" target="_blank">
               <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
             </a>
-            <a href="https://greenflow-demo.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/DEMO-5C5C5C?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
           </p>
-          <p><strong>Descripción:</strong> GreenFlow es un innovador sistema de riego automatizado que utiliza sensores y algoritmos inteligentes para optimizar el uso del agua, garantizando un riego eficiente y el crecimiento saludable de las plantas.</p>
+          <p><strong>Descripción:</strong> Plataforma de gamificación con IA que analiza commits, PRs y revisiones, otorgando XP, insignias y recompensas por buenas prácticas. Su AI Code Mentor sugiere mejoras y recomienda recursos de aprendizaje.</p>
           <p>
-            <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
           </p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🎮 Game On: Experiencia Gamificada Awaq</h3>
+        <h3 align="center">📚 Study Platform: Aprendizaje con IA</h3>
         <div align="center">
-          <a href="https://github.com/Edsel675/GameOn" target="_blank">
-            <img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="100%" alt="Game On"/>
+          <a href="https://github.com/Edsel675/study-platform" target="_blank">
+            <img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="100%" alt="Study Platform"/>
           </a>
           <p>
-            <a href="https://github.com/Edsel675/GameOn" target="_blank">
+            <a href="https://github.com/Edsel675/study-platform" target="_blank">
               <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
             </a>
-            <a href="https://gameon-awaq.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/DEMO-5C5C5C?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
           </p>
-          <p><strong>Descripción:</strong> Game On transforma retos diarios en emocionantes desafíos. Este juego gamificado está diseñado para aumentar la motivación y el compromiso de los colaboradores en Awaq, haciendo del aprendizaje y la mejora continua una experiencia divertida.</p>
+          <p><strong>Descripción:</strong> Plataforma de estudio interactiva en la que los estudiantes pueden aprender mediante modelos de inteligencia artificial especializados en la enseñanza personalizada.</p>
           <p>
-            <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-            <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+            <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
           </p>
         </div>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">🏫 LexSwift: Soluciones Legales Digitales</h3>
+        <h3 align="center">🐾 WildWatch: Videojuego Unity</h3>
         <div align="center">
-          <a href="https://github.com/Edsel675/LexSwift" target="_blank">
-            <img src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" width="100%" alt="LexSwift"/>
+          <a href="https://github.com/Edsel675/WildWatch-Videogame" target="_blank">
+            <img src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" width="100%" alt="WildWatch"/>
           </a>
           <p>
-            <a href="https://github.com/Edsel675/LexSwift" target="_blank">
+            <a href="https://github.com/Edsel675/WildWatch-Videogame" target="_blank">
               <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
             </a>
-            <a href="https://lexswift.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/DEMO-5C5C5C?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
           </p>
-          <p><strong>Descripción:</strong> LexSwift es una aplicación móvil desarrollada en Swift que ofrece soluciones digitales para el sector legal en Buffetec, facilitando la gestión de casos y el acceso a servicios jurídicos de forma rápida y segura.</p>
+          <p><strong>Descripción:</strong> Videojuego desarrollado en Unity con shaders personalizados y mecánicas de juego enfocadas en la conservación de vida silvestre. Proyecto académico que combina programación gráfica y diseño de experiencias interactivas.</p>
           <p>
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-            <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+            <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+            <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+            <img src="https://img.shields.io/badge/HLSL-5C5C5C?style=flat-square&logoColor=white"/>
           </p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">⚡ LearnPlay: Plataforma de Aprendizaje Gamificada</h3>
+        <h3 align="center">📊 Churn Dashboard: Análisis Predictivo</h3>
         <div align="center">
-          <a href="https://github.com/Edsel675/LearnPlay" target="_blank">
-            <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="100%" alt="LearnPlay"/>
+          <a href="https://github.com/Edsel675/Churn_dashboard" target="_blank">
+            <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="100%" alt="Churn Dashboard"/>
           </a>
           <p>
-            <a href="https://github.com/Edsel675/LearnPlay" target="_blank">
+            <a href="https://github.com/Edsel675/Churn_dashboard" target="_blank">
               <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
             </a>
-            <a href="https://learnplay-platform.vercel.app" target="_blank">
+            <a href="https://churndanu.vercel.app" target="_blank">
               <img src="https://img.shields.io/badge/DEMO-5C5C5C?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
-          <p><strong>Descripción:</strong> LearnPlay es una innovadora plataforma que fusiona aprendizaje y diversión mediante la gamificación. Diseñada para Codemahindra, permite a los usuarios adquirir conocimientos a través de desafíos interactivos y sistemas de recompensa.</p>
+          <p><strong>Descripción:</strong> Dashboard analítico para visualización y predicción de churn de clientes. Incluye gráficos interactivos y métricas clave para la toma de decisiones basada en datos.</p>
           <p>
-            <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-            <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-            <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
           </p>
         </div>
       </td>
@@ -144,92 +135,82 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">💾 CodeVault</h3>
+        <h3 align="center">🤖 CustomWorks IA: Plataforma de Negocios</h3>
         <div align="center">
-          <a href="https://github.com/Edsel675/CodeVault" target="_blank">
-            <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4572679d98723ec5f/raw/7fde0a33d526d1a34fd76cccb41d0e5b4a5a5151/github-contribution-grid-snake.gif" width="100%" alt="CodeVault"/>
+          <a href="https://github.com/Edsel675/CustomWorks_IA" target="_blank">
+            <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4572679d98723ec5f/raw/7fde0a33d526d1a34fd76cccb41d0e5b4a5a5151/github-contribution-grid-snake.gif" width="100%" alt="CustomWorks IA"/>
           </a>
           <p>
-            <a href="https://github.com/Edsel675/CodeVault" target="_blank">
+            <a href="https://github.com/Edsel675/CustomWorks_IA" target="_blank">
               <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
             </a>
-            <a href="https://codevault-app.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/DEMO-5C5C5C?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
           </p>
-          <p><strong>Descripción:</strong> Plataforma de almacenamiento y gestión de snippets de código con funcionalidades de búsqueda avanzada, etiquetado y compartición. Incluye resaltado de sintaxis para más de 50 lenguajes de programación.</p>
+          <p><strong>Descripción:</strong> Plataforma integral con IA para gestión de una microempresa de corte láser/DXF. Incluye catálogo de productos, gestión de pedidos, cotizador automático y asistente inteligente impulsado por Claude AI.</p>
           <p>
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
           </p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">📊 DevMetrics</h3>
+        <h3 align="center">✂️ CustomWorks: Sitio Web Empresarial</h3>
         <div align="center">
-          <a href="https://github.com/Edsel675/DevMetrics" target="_blank">
-            <img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da6c18ecc8b924395a/hello.gif" width="100%" alt="DevMetrics"/>
+          <a href="https://github.com/Edsel675/CustomWorks" target="_blank">
+            <img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da6c18ecc8b924395a/hello.gif" width="100%" alt="CustomWorks"/>
           </a>
           <p>
-            <a href="https://github.com/Edsel675/DevMetrics" target="_blank">
+            <a href="https://github.com/Edsel675/CustomWorks" target="_blank">
               <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
             </a>
-            <a href="https://devmetrics-dashboard.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/DEMO-5C5C5C?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
           </p>
-          <p><strong>Descripción:</strong> Dashboard analítico para desarrolladores que integra datos de GitHub, Jira y GitLab para visualizar métricas de productividad, calidad de código y rendimiento del equipo con gráficos interactivos.</p>
+          <p><strong>Descripción:</strong> Sitio web profesional para Custom Works, microempresa de corte láser y grabado en Monterrey. Catálogo de productos DXF, portafolio de trabajos y sistema de contacto para cotizaciones personalizadas.</p>
           <p>
-            <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
-            <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
           </p>
         </div>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">📝 TaskMaster</h3>
+        <h3 align="center">📍 OurPlaces: App de Lugares</h3>
         <div align="center">
-          <a href="https://github.com/Edsel675/TaskMaster" target="_blank">
-            <img src="https://raw.githubusercontent.com/gist/AliasIO/f4b16c5c5e0a91e38c29b72c069a4f28/raw/33de9b4c9ea9059396abe9b8f5b6184c4c5c0597/fullstack.gif" width="100%" alt="TaskMaster"/>
+          <a href="https://github.com/Edsel675/Ourplaces" target="_blank">
+            <img src="https://raw.githubusercontent.com/gist/AliasIO/f4b16c5c5e0a91e38c29b72c069a4f28/raw/33de9b4c9ea9059396abe9b8f5b6184c4c5c0597/fullstack.gif" width="100%" alt="OurPlaces"/>
           </a>
           <p>
-            <a href="https://github.com/Edsel675/TaskMaster" target="_blank">
+            <a href="https://github.com/Edsel675/Ourplaces" target="_blank">
               <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
             </a>
-            <a href="https://taskmaster-app.vercel.app" target="_blank">
+            <a href="https://v0-our-places-app.vercel.app" target="_blank">
               <img src="https://img.shields.io/badge/DEMO-5C5C5C?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
-          <p><strong>Descripción:</strong> Aplicación de gestión de tareas con funcionalidades avanzadas como categorización, priorización, recordatorios y análisis de productividad. Incluye sincronización entre dispositivos y modo offline.</p>
+          <p><strong>Descripción:</strong> Aplicación web para descubrir, guardar y compartir lugares favoritos. Interfaz moderna con TypeScript que permite a los usuarios explorar y recomendar sitios de interés.</p>
           <p>
-            <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-            <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+            <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
           </p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🌱 EcoTracker</h3>
+        <h3 align="center">🎓 Plataforma Educativa</h3>
         <div align="center">
-          <a href="https://github.com/Edsel675/EcoTracker" target="_blank">
-            <img src="https://raw.githubusercontent.com/gist/ZaneCEO/567a36554e0145799d5a1dfefba70d83/raw/0f32e94e7cee51f6ef92b9a6e2dc691120926366/hello-world.gif" width="100%" alt="EcoTracker"/>
+          <a href="https://github.com/Edsel675/Plataforma_educativa" target="_blank">
+            <img src="https://raw.githubusercontent.com/gist/ZaneCEO/567a36554e0145799d5a1dfefba70d83/raw/0f32e94e7cee51f6ef92b9a6e2dc691120926366/hello-world.gif" width="100%" alt="Plataforma Educativa"/>
           </a>
           <p>
-            <a href="https://github.com/Edsel675/EcoTracker" target="_blank">
+            <a href="https://github.com/Edsel675/Plataforma_educativa" target="_blank">
               <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
             </a>
-            <a href="https://ecotracker-app.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/DEMO-5C5C5C?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
           </p>
-          <p><strong>Descripción:</strong> Aplicación para monitorear y reducir la huella de carbono personal mediante el seguimiento de hábitos diarios, transporte, consumo energético y alimentación. Incluye consejos personalizados y desafíos comunitarios.</p>
+          <p><strong>Descripción:</strong> Plataforma educativa digital con módulos de aprendizaje interactivos, gestión de cursos y seguimiento de progreso para estudiantes. Construida con TypeScript para una experiencia fluida y escalable.</p>
           <p>
-            <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
             <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-            <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
           </p>
         </div>
       </td>
@@ -242,34 +223,30 @@
 ## 🔥 Featured Project
 
 <div align="center">
-  <a href="https://github.com/Edsel675/CodeVault">
-    <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4572679d98723ec5f/raw/7fde0a33d526d1a34fd76cccb41d0e5b4a5a5151/github-contribution-grid-snake.gif" width="600px" alt="Featured Project"/>
+  <a href="https://github.com/Edsel675/CodeMahindra">
+    <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="600px" alt="Featured Project"/>
   </a>
-  <h3>🏆 CodeVault: Tu Biblioteca de Código Personal</h3>
+  <h3>🏆 CodeMahindra: Gamificación con IA para Desarrolladores</h3>
   <p>
-    <a href="https://github.com/Edsel675/CodeVault">
+    <a href="https://github.com/Edsel675/CodeMahindra">
       <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    <a href="https://codevault-app.vercel.app">
-      <img src="https://img.shields.io/badge/DEMO-5C5C5C?style=for-the-badge&logo=vercel&logoColor=white"/>
     </a>
   </p>
   <p width="70%">
-    <strong>CodeVault</strong> es una plataforma completa para almacenar, organizar y compartir snippets de código. Desarrollada con React y Node.js, ofrece una experiencia fluida para programadores que necesitan mantener su biblioteca de código organizada y accesible desde cualquier dispositivo.
+    <strong>CodeMahindra</strong> es una plataforma de gamificación con IA que transforma el flujo de trabajo de los desarrolladores. Analiza commits, PRs y revisiones de código, otorgando XP, insignias y recompensas por buenas prácticas.
     <br/><br/>
     Características principales:
-    <br/>• Resaltado de sintaxis para más de 50 lenguajes de programación
-    <br/>• Sistema de etiquetado y categorización avanzado
-    <br/>• Búsqueda en tiempo real con filtros múltiples
-    <br/>• Compartición de snippets mediante enlaces o exportación
-    <br/>• Sincronización entre dispositivos y modo offline
-    <br/>• Integración con GitHub Gists
+    <br/>• AI Code Mentor que sugiere mejoras en tiempo real
+    <br/>• Sistema de XP, insignias y rankings por buenas prácticas
+    <br/>• Desafíos y competencias entre repositorios
+    <br/>• Recomendaciones de recursos personalizadas por IA
+    <br/>• Integración con flujos de trabajo de GitHub
+    <br/>• Motivación continua para equipos de desarrollo
   </p>
   <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
   </p>
 </div>
 
@@ -295,7 +272,7 @@
   <a href="https://instagram.com/edselcissneros">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:edsel.cisneros@example.com">
+  <a href="mailto:cisneros101205@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -309,6 +286,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" width="100%" />
 </div>
-
-
-
