@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=42&section=header&text=About&fontColor=38BDF8&fontSize=22&fontAlign=4&fontAlignY=52" width="100%" />
+## About
 
 > Building full-stack apps with a focus on **AI integrations** and **gamification**.
 > Founder of **Custom Works** — a laser cutting & engraving business.
@@ -24,23 +24,26 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=42&section=header&text=Tech%20Stack&fontColor=38BDF8&fontSize=22&fontAlign=4&fontAlignY=52" width="100%" />
+## Tech Stack
 
 <div align="center">
 
-#### Languages
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=38BDF8)
 ![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=38BDF8)
 ![C++](https://img.shields.io/badge/C++-0F172A?style=for-the-badge&logo=cplusplus&logoColor=38BDF8)
 
-#### ML & Data
+**ML &amp; Data**
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8)
 ![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=38BDF8)
 ![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=38BDF8)
-![Power BI](https://img.shields.io/badge/Power%20BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=38BDF8)
+![Azure](https://img.shields.io/badge/Power%20BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=38BDF8)
 
-#### Frameworks & Tools
+**Frameworks &amp; Tools**
+
 ![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=38BDF8)
 ![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=38BDF8)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=38BDF8)
@@ -53,7 +56,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=42&section=header&text=Selected%20Work&fontColor=38BDF8&fontSize=22&fontAlign=4&fontAlignY=52" width="100%" />
+## Selected Work
 
 <table>
 <tr>
@@ -126,18 +129,10 @@ App to discover, save and share your favorite places.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=42&section=header&text=GitHub%20Stats&fontColor=38BDF8&fontSize=22&fontAlign=4&fontAlignY=52" width="100%" />
+## GitHub Activity
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Edsel675&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&hide=contribs" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edsel675&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=94A3B8&langs_count=6" />
-
-<br/><br/>
-
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Edsel675&hide_border=true&background=0F172A&stroke=1E293B&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=475569&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Edsel675&bg_color=0F172A&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="98%" />
 </div>
 
 <br/>
