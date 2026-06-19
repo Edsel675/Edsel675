@@ -4,7 +4,7 @@
 
 <br/>
 
-`Next.js` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Supabase` &nbsp;·&nbsp; `AI integrations`
+`Python` &nbsp;·&nbsp; `Next.js` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `Machine Learning`
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-## ◆ &nbsp;About
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=42&section=header&text=About&fontColor=38BDF8&fontSize=22&fontAlign=4&fontAlignY=52" width="100%" />
 
 > Building full-stack apps with a focus on **AI integrations** and **gamification**.
 > Founder of **Custom Works** — a laser cutting & engraving business.
@@ -24,29 +24,36 @@
 
 <br/>
 
-## ◆ &nbsp;Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=42&section=header&text=Tech%20Stack&fontColor=38BDF8&fontSize=22&fontAlign=4&fontAlignY=52" width="100%" />
 
 <div align="center">
 
 #### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=38BDF8)
 ![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8)
-![C#](https://img.shields.io/badge/C%23-0F172A?style=for-the-badge&logo=csharp&logoColor=38BDF8)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=38BDF8)
+![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=38BDF8)
+![C++](https://img.shields.io/badge/C++-0F172A?style=for-the-badge&logo=cplusplus&logoColor=38BDF8)
+
+#### ML & Data
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8)
+![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=38BDF8)
+![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=38BDF8)
+![Power BI](https://img.shields.io/badge/Power%20BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=38BDF8)
 
 #### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=38BDF8)
 ![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=38BDF8)
+![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=38BDF8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=38BDF8)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Prisma](https://img.shields.io/badge/Prisma-0F172A?style=for-the-badge&logo=prisma&logoColor=38BDF8)
-![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=38BDF8)
-![Unity](https://img.shields.io/badge/Unity-0F172A?style=for-the-badge&logo=unity&logoColor=38BDF8)
 ![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=38BDF8)
+![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=38BDF8)
 
 </div>
 
 <br/>
 
-## ◆ &nbsp;Selected Work
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=42&section=header&text=Selected%20Work&fontColor=38BDF8&fontSize=22&fontAlign=4&fontAlignY=52" width="100%" />
 
 <table>
 <tr>
@@ -119,7 +126,7 @@ App to discover, save and share your favorite places.
 
 <br/>
 
-## ◆ &nbsp;GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=42&section=header&text=GitHub%20Stats&fontColor=38BDF8&fontSize=22&fontAlign=4&fontAlignY=52" width="100%" />
 
 <div align="center">
 
@@ -142,5 +149,5 @@ App to discover, save and share your favorite places.
 <br/>
 
 <div align="center">
-<sub>◆ &nbsp;Open to collaboration & full-stack opportunities &nbsp;◆</sub>
+<sub>Open to collaboration & full-stack opportunities</sub>
 </div>
